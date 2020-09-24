@@ -43,6 +43,6 @@ const AppRouter = ({ isLoggedIn, userObj, refresh }) => {
       </Switch>
     </Router>
   );
-};
+}; 
 
 export default AppRouter;
