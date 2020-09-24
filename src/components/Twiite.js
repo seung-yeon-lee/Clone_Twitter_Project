@@ -138,4 +138,3 @@ const Twiite = ({ twiiteObj, isOwner }) => {
 
 export default Twiite;
 
-// https://nomadcoders.co/nwitter/lectures/1934
