@@ -102,5 +102,5 @@ export default ({ userObj, refresh }) => {
         Log Out
       </span>
     </div>
-  );
+  ); 
 };
