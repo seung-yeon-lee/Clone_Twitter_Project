@@ -73,7 +73,7 @@ const AuthForm = () => {
       if (newAccount) {
         data = await authService.createUserWithEmailAndPassword(
           email,
-          password
+          password 
         );
       } else {
         data = await authService.signInWithEmailAndPassword(email, password);
